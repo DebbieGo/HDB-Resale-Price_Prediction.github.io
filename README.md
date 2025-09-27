@@ -1,4 +1,4 @@
-# HDB-Resale-Price_Prediction
+# HDB Resale Price Prediction
 
 In the competitive Singapore real estate market, **setting the right price for an HDB resale flat is critical**. Real Estate agents need a **reliable, data-driven tool** to move beyond simple comparisons and provide clients with **accurate, justifiable pricing advice**.
 
