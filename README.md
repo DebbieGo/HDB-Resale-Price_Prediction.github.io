@@ -10,4 +10,4 @@ The objective of this project is to analyze historical resale data to:
 
 3. Deliver an interactive tool for agents to use to advise their clients.
 
-In this project, I've developed an advanced XGBoost machine learning model that achieved **97% accuracy in predicting HDB resale prices** in Singapore. This represents 49% reduction in average prediction error compared to a standard linear model, proving its ability to capture the complex dynamics of the market. These insights are delivered through **an interactive pricing tool for agents to use to advise their clients effectively**. 
+In this project, I've developed an advanced XGBoost machine learning model that achieved ** an R² of 0.97, explaining 97% of HDB resale price variability** in Singapore. This represents 49% reduction in average prediction error compared to a standard linear model, proving its ability to capture the complex dynamics of the market. These insights are delivered through **an interactive pricing tool for agents to use to advise their clients effectively**. 
